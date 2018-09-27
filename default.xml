@@ -63,7 +63,7 @@
     -->
     <project path="src/istio.io/istio" remote="github" name="istio/istio"/>
     <project path="src/istio.io/pilot" remote="github" name="istio/pilot"/>
-    <project path="src/istio.io/mixer" remote="github" name="costinm/mixer"/>
+    <project path="src/istio.io/mixer" remote="github" name="istio/mixer"/>
     <project path="src/istio.io/auth" remote="github" name="istio/auth"/>
     <project path="src/istio.io/api" remote="github" name="costinm/api" revision="costin"/>
 
