@@ -16,7 +16,7 @@
          which uses envoy a8c446aafa2af08f525dbab2b052f25834b78139 (may 26)
          1.3.0 is last tagged version, on may 17.
  -->
-    <project name="envoy" revision="v130-32bit"/>
+    <project name="envoy" revision="costinm"/>
 
     <!--
     Forks from unary branch, using same envoy
